@@ -1,8 +1,7 @@
 <?php
-include "U9/CW/heapSort.php";
-include "U9/CW/shellSort.php";
-//include "U9/binarySearch.php";
-//include "U9/HW9/HW9.php";
+include "CW/heapSort.php";
+include "CW/shellSort.php";
+
 
 
 
