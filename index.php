@@ -1,11 +1,11 @@
 <?php
-include "U9/CW/IarrayInterface.php";
-include "U9/CW/heapSort.php";
-include "U9/CW/bubbleSort.php";
-include "U9/CW/shellSort.php";
-include "U9/CW/shakeSort.php";
-include "U9/CW/quickSort.php";
-include "U9/CW/eulerFunc.php";
+include "CW/IarrayInterface.php";
+include "CW/heapSort.php";
+include "CW/bubbleSort.php";
+include "CW/shellSort.php";
+include "CW/shakeSort.php";
+include "CW/quickSort.php";
+include "CW/eulerFunc.php";
 
 
 
